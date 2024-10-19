@@ -1,0 +1,17 @@
+C:\Users\Loure\source\repos\To Do List\To Do List\bin\Debug\net8.0-windows\To Do List.exe
+C:\Users\Loure\source\repos\To Do List\To Do List\bin\Debug\net8.0-windows\To Do List.deps.json
+C:\Users\Loure\source\repos\To Do List\To Do List\bin\Debug\net8.0-windows\To Do List.runtimeconfig.json
+C:\Users\Loure\source\repos\To Do List\To Do List\bin\Debug\net8.0-windows\To Do List.dll
+C:\Users\Loure\source\repos\To Do List\To Do List\bin\Debug\net8.0-windows\To Do List.pdb
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To_Do_List.Form1.resources
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.csproj.GenerateResource.cache
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.AssemblyInfoInputs.cache
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.AssemblyInfo.cs
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.sourcelink.json
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.dll
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\refint\To Do List.dll
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.pdb
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\To Do List.genruntimeconfig.cache
+C:\Users\Loure\source\repos\To Do List\To Do List\obj\Debug\net8.0-windows\ref\To Do List.dll
